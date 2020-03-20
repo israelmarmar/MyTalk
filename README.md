@@ -12,9 +12,9 @@
 In addition, MyTalk:
  <ul>
   <li>performs a morphological analysis of the words, based on the ProNTo_Morph tool, which checks the concordance in number between subject and verb of a sentence;</li>
-  <li>instead of using a fixed lexicon cabled within the program, it uses the WordNet&copy; lexical database to check if a word exists;</li>
+  <li>instead of using a fixed lexicon cabled within the program, it uses the portuguese lexical database to check if a word exists;</li>
   <li>supports the usage of common nouns as subjects and is able to handle a wider range of input assertions and queries. It is also able to transform a wider range of FOLs into Horn clauses.
-  <li>uses the hypernym and antonym WordNet&copy; relationships format to define a demo ontology, used to perform a demo semantic check on input assertions. Such ontology is based on the considerations presented in the Chapter 6 of (Blackburn and Bos, 2005).
+
 </ul>
 
 The access to WordNet is partially inspired to the files defined by the WordNet integration ProNTo tool, which was an useful source of inspiration.
