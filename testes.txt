@@ -1,0 +1,13 @@
+/*=====================================================
+Testes
+>> principia e um livro
+Asserted "livro(principia)."
+>> bertrand escreve todo livro
+Asserted "escreve(bertrand,_2564):-livro(_2564)."
+>> quais dos livros bertrand escreveu
+Error: "questão difícil."
+>> que bertrand escreve
+principia.
+>> todo professor que escreve um programa conhece bertrand
+Asserted "conhece(_8140,bertrand):-professor(_8140),programa(_8202),escreve(_8140,_8202)."
+=====================================================*/
