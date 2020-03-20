@@ -2,7 +2,7 @@
 
 ### What is MyTalk
 
-<i>MyTalk</i> is a Prolog tool for NLP, based on WordNet lexical database, for the English language. It is an extension of the <i>Talk</i> program, presented in (Pereira and Shieber, 1987). First of all, just as <i>Talk</i>, <i>MyTalk</i> is able to:
+<i>MyTalk</i> is a Prolog tool for NLP, for the Portuguese language. It is an extension of the <i>Talk</i> program, presented in (Pereira and Shieber, 1987). First of all, just as <i>Talk</i>, <i>MyTalk</i> is able to:
 <ul>
   <li>perform the syntactic parsing of a declarative sentence or of a query, returning as result the corresponding logical form (FOL);</li>
   <li>transform the obtained logical form into a Horn clause (if possible)</li>
@@ -26,10 +26,6 @@ Fundamental readings to understand and extend this work are:
 <li>Pereira, F. C., & Shieber, S. M. (1987). <i>Prolog and natural-language analysis</i>. Microtome Publishing.</li>
 
 <li>Blackburn, P., & Bos, J. (2005). Representation and inference for natural language. <i>A first course in computational semantics.</i> CSLI.</li>
-
-<ldi>Miller, G. A. (1995). WordNet: a lexical database for English. <i>Communications of the ACM</i>, 38(11), 39-41.</li>
-
-<li>Ribeiro, C. et al. (2004). INQUER: A WordNet-based Question-Answering Application. In LREC.</li>
 
 <li>ProNTo, Prolog Natural Language Tools (http://ai1.ai.uga.edu/mc/pronto/).</li>
 </ul>
